@@ -1,4 +1,4 @@
-# repo-wiki-architect
+## WIKI.md
 
 Agent Skill for generating and maintaining `WIKI.md` as a verified repository architecture map.
 
